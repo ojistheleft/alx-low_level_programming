@@ -1,7 +1,6 @@
 #!/bin/bash
-vi 5-printf.c
+vi 4-puts.c
 #include <stdio.h>
-
 /**
 *main - Entry point
 *Return: Always 0 (Success)
@@ -9,7 +8,7 @@ vi 5-printf.c
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
-	return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+			return (0);
 }
 
